@@ -1,0 +1,75 @@
+---
+title: "sigma Coffee Morning"
+subtitle: "Reading Group"
+author: "<br><br><br><br><br><br><br>Hosted by: <br> Evi Papadaki"
+institute: "University of Bath"
+transition: fade
+format: 
+  revealjs:
+    title-slide-background-image: "cover-image.jpg"
+    center: false
+    width: 1500
+    margin: 0.1
+    reference-location: document
+    logo: sigma.png
+    slide-number: true
+    incremental: false
+    smaller: false
+    auto-stretch: false
+    title-slide-attributes: 
+      data-background-image: background.jpeg
+      data-background-size: cover
+      data-background-opacity: "0.2"
+---
+
+## Housekeeping
+
+:::::: {style="text-indent: -1.5em; padding-left: 1.5em;"}
+📑 Jackson, D. C. (2022). Sustainable multi-disciplinary mathematics support. *International Journal of Mathematical Education in Science and Technology*, 53(6), 1343–1362. <https://doi.org/10.1080/0020739X.2020.1819572>
+
+::: fragment
+💬 Feel free to contribute thoughts and insights, but please keep microphones muted when not speaking.
+:::
+
+::: fragment
+⏱️ We will be splitting into breakout rooms for group discussion and then returning to the main room to share insights.
+:::
+
+::: fragment
+🖊️ Each group should assign one person to keep notes and share key discussion points when we return.
+:::
+::::::
+
+## Warm-up (20 min)
+
+1.  How does mathematics support function at your university? Would you describe the approach as interdisciplinary? In what ways is it similar to or different from the model proposed in the paper?
+
+2.  *"\[S\]upport should address cross-disciplinary needs and diversity of student background, explaining the relevance of mathematics within a wide range of disciplines"* (p. 1345). <br> Do you agree with this statement? Reflecting on your experience, what other needs or lack of skills might need to be addressed?
+
+## Highlights and implications for practice (35 min)
+
+3.  The paper highlights the successful implementation of a mathematics support program offering support across multiple disciplines in a sustainable way. In what ways is the support model sustainable? What other factors should be considered for sustainable programs?
+
+4.  The results presented in the paper span multiple years and involve a large sample size. For smaller mathematics resource centres, such a comprehensive analysis might be impossible due to limited resources and support from the university. Considering the importance of demonstrating the impact of mathematics support for maintaining their central role in universities and evolving the services provided, what can be done to support each other?
+
+## Zooming out (20 min)
+
+5.  What future directions should mathematics support centres prioritise?
+
+## Time to say goodbye
+
+::: fragment
+-   If you would like to share your notes with the reading group please email me at [pp949\@bath.ac.uk](mailto:pp949@bath.ac.uk)
+:::
+
+::: fragment
+-   Would you like to host a **sigma** reading group in the future?
+:::
+
+::: fragment
+-   I would love to hear your [feedback](https://forms.office.com/e/kmRHcy7361).
+:::
+
+::: {.fragment style="text-align: center;"}
+***Thank you** for joining me today*.
+:::
