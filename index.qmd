@@ -42,6 +42,16 @@ format:
 :::
 ::::::
 
+## Schedule
+
+        
+* **Warm-up** 20min (15 min in groups)
+
+* **Highlights and implications for practice** 35 min (25 min in groups)
+
+* **Zooming out** 20min (15 min in groups)
+
+
 ## Warm-up (20 min)
 
 1.  How does mathematics support function at your university? Would you describe the approach as interdisciplinary? In what ways is it similar to or different from the model proposed in the paper?
